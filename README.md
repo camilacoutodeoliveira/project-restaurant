@@ -53,6 +53,11 @@ or
 npm install redis connect-redis express-session
 ```
 
+```
+npm install moment --save
+```
+
+
 
 ### 🤝Thanks
 This project was developed based on the Complete JavaScript Course with ♥ [HCode](https://hcode.com.br/)/[Udemy](https://www.udemy.com/course/javascript-curso-completo/)
