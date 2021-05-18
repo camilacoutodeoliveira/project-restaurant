@@ -31,7 +31,7 @@ This project corresponds to a web application for restaurants composed of a busi
  <li>dataset;</li> 
  <li>Ajax;</li>
  <li>Middlewares;</li>
- <li>..</li>
+ <li>[ChartJS](https://www.chartjs.org/)</li>
 </ul>
  
  ### ⚙️ Installation
@@ -48,7 +48,6 @@ npm install formidable --save
 npm install express-session connect-redis
 ```
 or
-
 ```
 npm install redis connect-redis express-session
 ```
@@ -56,8 +55,6 @@ npm install redis connect-redis express-session
 ```
 npm install moment --save
 ```
-
-
 
 ### 🤝Thanks
 This project was developed based on the Complete JavaScript Course with ♥ [HCode](https://hcode.com.br/)/[Udemy](https://www.udemy.com/course/javascript-curso-completo/)
